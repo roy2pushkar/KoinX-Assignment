@@ -1,7 +1,7 @@
 import React from 'react';
 import  { useEffect, useState } from 'react';
 import axios from 'axios';
-import TradingViewWidget from 'react-tradingview-widget';
+//import TradingViewWidget from 'react-tradingview-widget';
 import logo from '../Assests/1. KoinX Logo.png';
 import frame from '../Assests/Frame.png';
 import frame1 from '../Assests/Frame 1116601921 (1).png';
